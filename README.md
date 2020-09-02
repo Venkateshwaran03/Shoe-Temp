@@ -1,2 +1,2 @@
-# Shoe-Temp
-A template for Shoes
+# Template-Shoes
+ A template For Shoe
